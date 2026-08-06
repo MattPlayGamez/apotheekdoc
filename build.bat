@@ -1,0 +1,1 @@
+python -m nuitka --onefile --windows-icon-from-ico=icon.ico .\wordCreator.py
