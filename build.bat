@@ -1,1 +1,1 @@
-python -m nuitka --onefile --windows-icon-from-ico=icon.ico .\wordCreator.py
+python -m nuitka --onefile --windows-icon-from-ico=icon.ico --windows-console-mode=disable .\wordCreator.py
